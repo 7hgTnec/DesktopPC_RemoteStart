@@ -10,3 +10,4 @@ Also the wire from case's switch can connect with the wire from relay in paralle
 
 And then connect with powerSW on motherboard such that the case's switch can still work.
 
+![image](https://github.com/7hgTnec/DesktopPC_RemoteStart/edit/master/Connection.jpg)
