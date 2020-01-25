@@ -1,7 +1,7 @@
 # DesktopPC_RemoteStart
 The depend library comes from https://github.com/esp8266/Arduino.git
 
-Basic idear is use iPhone shorcut to run an ssh command and creat an file name is start
+Basic idear is using iPhone shorcut to run a ssh command and creat a file name is start
 
 ![Shortcut](https://github.com/7hgTnec/DesktopPC_RemoteStart/blob/master/iPhoneShortcut.jpg)
 
