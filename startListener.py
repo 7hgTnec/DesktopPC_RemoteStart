@@ -40,7 +40,7 @@ if __name__ == "__main__":
                 os.remove("start")
                 connection.recv(10)
 
-            time.sleep(100)
+            time.sleep(0.1)
         connection.close()
         print("Disconnect" + time.strftime("%Y-%m-%d %H:%M:%S %Z", time.localtime(time.time())))
 
